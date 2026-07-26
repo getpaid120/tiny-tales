@@ -2,17 +2,3 @@
 .env
 client_secrets.json
 *.pickle
-
-# Generated media
-audio/*
-videos/*
-thumbnails/*
-
-# But keep the folders
-!audio/.gitkeep
-!videos/.gitkeep
-!thumbnails/.gitkeep
-
-# Python
-__pycache__/
-*.pyc
