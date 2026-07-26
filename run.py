@@ -32,7 +32,7 @@ VIDEO_DIR = BASE / "videos"
 THUMB_DIR = BASE / "thumbnails"
 ASSETS_DIR = BASE / "assets"
 SCRIPTS_DIR = BASE / "scripts"
-DASHBOARD_DIR = BASE / "dashboard"
+DASHBOARD_DIR = BASE / "docs"
 
 for d in [AUDIO_DIR, VIDEO_DIR, THUMB_DIR, ASSETS_DIR, SCRIPTS_DIR, DASHBOARD_DIR]:
     d.mkdir(exist_ok=True)
