@@ -1,5 +1,5 @@
 {
-  "total_videos": 3,
+  "total_videos": 4,
   "videos": [
     {
       "date": "2026-07-26",
@@ -22,6 +22,14 @@
       "title": "\ud83c\udf19 \"Goodnight moon, goodnight stars, goodnight cars,\" whispered Ava",
       "category": "bedtime",
       "theme": "A dreamy story about a pillow fort",
+      "uploaded": false,
+      "video_id": null
+    },
+    {
+      "date": "2026-07-26",
+      "title": "\ud83c\udf1f Daisy agreed to water her neighbor's plants",
+      "category": "morals",
+      "theme": "A short moral story about being responsible",
       "uploaded": false,
       "video_id": null
     }
