@@ -1,5 +1,5 @@
 {
-  "total_videos": 2,
+  "total_videos": 3,
   "videos": [
     {
       "date": "2026-07-26",
@@ -14,6 +14,14 @@
       "title": "\ud83c\udf19 Leo built a pillow fort so tall it touched the ceiling",
       "category": "bedtime",
       "theme": "A peaceful story about a cloud bed",
+      "uploaded": false,
+      "video_id": null
+    },
+    {
+      "date": "2026-07-26",
+      "title": "\ud83c\udf19 \"Goodnight moon, goodnight stars, goodnight cars,\" whispered Ava",
+      "category": "bedtime",
+      "theme": "A dreamy story about a pillow fort",
       "uploaded": false,
       "video_id": null
     }
