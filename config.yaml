@@ -1,0 +1,78 @@
+# YouTube Automation Config
+# ========================
+
+channel_name: "Tiny Tales"
+niche: "kids_stories"
+language: "en"
+
+# Video settings
+video:
+  duration_seconds: 50
+  resolution: "1080x1920"     # Portrait for YouTube Shorts
+  fps: 24
+
+# Story themes - rotates daily for variety
+story_themes:
+  morals:
+    - "A short moral story about sharing for children"
+    - "A short moral story about patience for kids"
+    - "A short moral story about forgiveness"
+    - "A short moral story about gratitude"
+    - "A short moral story about respect"
+    - "A short moral story about helping others"
+    - "A short moral story about being responsible"
+    - "A short moral story about courage"
+    - "A short moral story about being humble"
+    - "A short moral story about teamwork"
+  fairy_tales:
+    - "A short fairy tale about a magical forest"
+    - "A short fairy tale about a kind princess"
+    - "A short fairy tale about a brave knight"
+    - "A short fairy tale about talking animals"
+    - "A short fairy tale about a secret garden"
+    - "A short fairy tale about a wishing well"
+    - "A short fairy tale about a friendly dragon"
+    - "A short fairy tale about a magic lamp"
+    - "A short fairy tale about a rainbow kingdom"
+    - "A short fairy tale about a star that fell to earth"
+  bedtime:
+    - "A gentle bedtime story about the moon"
+    - "A calming bedtime story about dreamland"
+    - "A sleepy story about counting stars"
+    - "A cozy bedtime story about a teddy bear"
+    - "A peaceful story about a cloud bed"
+    - "A soft bedtime story about night animals"
+    - "A dreamy story about a pillow fort"
+    - "A gentle story about saying goodnight"
+    - "A warm story about starlight"
+    - "A snug bedtime story about blankies"
+
+# gTTS is free, no API key needed
+tts:
+  provider: "gtts"
+  language: "en"
+  slow: false
+
+# Gemini (free tier, optional - falls back to built-in stories)
+gemini:
+  model: "gemini-2.0-flash-lite"
+  # API key goes in .env file
+
+# YouTube upload settings (set up after Google OAuth)
+youtube:
+  category: "Education"
+  privacy_status: "public"
+  tags:
+    - "kids stories"
+    - "bedtime stories"
+    - "moral stories"
+    - "fairy tales"
+    - "children stories"
+    - "stories for kids"
+    - "short stories"
+    - "learning"
+
+# Dashboard
+dashboard:
+  title: "Tiny Tales Dashboard"
+  theme_color: "#FF6B6B"

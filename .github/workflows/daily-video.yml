@@ -1,0 +1,43 @@
+name: Daily YouTube Video
+
+on:
+  schedule:
+    # Runs every day at 8:00 AM UTC (adjust to your timezone)
+    - cron: '0 8 * * *'
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
+
+jobs:
+  generate-video:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+      
+      - name: Install Python dependencies
+        run: |
+          pip install google-generativeai gtts Pillow PyYAML python-dotenv moviepy
+      
+      - name: Run video pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # YouTube credentials stored as GitHub secrets
+        run: python run.py
+      
+      - name: Commit and push generated files
+        run: |
+          git config --local user.email "tiny-tales-bot@users.noreply.github.com"
+          git config --local user.name "Tiny Tales Bot"
+          git add audio/ videos/ thumbnails/ scripts/ dashboard/ data.json
+          git diff --staged --quiet || git commit -m "Daily video - $(date +%Y-%m-%d)"
+          git push
