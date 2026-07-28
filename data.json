@@ -1,5 +1,5 @@
 {
-  "total_videos": 5,
+  "total_videos": 6,
   "videos": [
     {
       "date": "2026-07-26",
@@ -40,9 +40,17 @@
       "theme": "A calming bedtime story about dreamland",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-07-28",
+      "title": "\ud83c\udf1f Lily wanted to learn the piano right away",
+      "category": "morals",
+      "theme": "A short moral story about helping others",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 2,
-  "last_upload": "2026-07-27",
+  "current_streak": 3,
+  "last_upload": "2026-07-28",
   "created": "2026-07-26T10:02:44.780533"
 }
