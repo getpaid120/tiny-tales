@@ -1,5 +1,5 @@
 {
-  "total_videos": 12,
+  "total_videos": 13,
   "videos": [
     {
       "date": "2026-07-26",
@@ -96,9 +96,17 @@
       "theme": "A short fairy tale about talking animals",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-08-04",
+      "title": "\ud83c\udf1f Peacock Pablo loved his beautiful tail",
+      "category": "morals",
+      "theme": "A short moral story about sharing for children",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 9,
-  "last_upload": "2026-08-03",
+  "current_streak": 10,
+  "last_upload": "2026-08-04",
   "created": "2026-07-26T10:02:44.780533"
 }
