@@ -1,5 +1,5 @@
 {
-  "total_videos": 14,
+  "total_videos": 15,
   "videos": [
     {
       "date": "2026-07-26",
@@ -112,9 +112,17 @@
       "theme": "A short fairy tale about a magic lamp",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-08-06",
+      "title": "\ud83c\udf1f Maya found a penny on the ground",
+      "category": "morals",
+      "theme": "A short moral story about forgiveness",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 11,
-  "last_upload": "2026-08-05",
+  "current_streak": 12,
+  "last_upload": "2026-08-06",
   "created": "2026-07-26T10:02:44.780533"
 }
