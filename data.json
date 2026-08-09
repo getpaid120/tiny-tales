@@ -1,5 +1,5 @@
 {
-  "total_videos": 17,
+  "total_videos": 18,
   "videos": [
     {
       "date": "2026-07-26",
@@ -136,9 +136,17 @@
       "theme": "A short moral story about teamwork",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-08-09",
+      "title": "\ud83e\uddda Deep in the hills sat the Wishing Well",
+      "category": "fairy_tales",
+      "theme": "A short fairy tale about a friendly dragon",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 14,
-  "last_upload": "2026-08-08",
+  "current_streak": 15,
+  "last_upload": "2026-08-09",
   "created": "2026-07-26T10:02:44.780533"
 }
