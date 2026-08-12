@@ -1,5 +1,5 @@
 {
-  "total_videos": 20,
+  "total_videos": 21,
   "videos": [
     {
       "date": "2026-07-26",
@@ -160,9 +160,17 @@
       "theme": "A short moral story about being humble",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-08-12",
+      "title": "\ud83e\uddda Deep in the hills sat the Wishing Well",
+      "category": "fairy_tales",
+      "theme": "A short fairy tale about a secret garden",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 17,
-  "last_upload": "2026-08-11",
+  "current_streak": 18,
+  "last_upload": "2026-08-12",
   "created": "2026-07-26T10:02:44.780533"
 }
