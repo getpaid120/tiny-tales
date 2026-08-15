@@ -1,5 +1,5 @@
 {
-  "total_videos": 23,
+  "total_videos": 24,
   "videos": [
     {
       "date": "2026-07-26",
@@ -184,9 +184,17 @@
       "theme": "A short fairy tale about a rainbow kingdom",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-08-15",
+      "title": "\ud83c\udf1f Tommy broke his sister's crayon by accident",
+      "category": "morals",
+      "theme": "A short moral story about helping others",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 20,
-  "last_upload": "2026-08-14",
+  "current_streak": 21,
+  "last_upload": "2026-08-15",
   "created": "2026-07-26T10:02:44.780533"
 }
