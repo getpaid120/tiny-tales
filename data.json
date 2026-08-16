@@ -1,5 +1,5 @@
 {
-  "total_videos": 24,
+  "total_videos": 25,
   "videos": [
     {
       "date": "2026-07-26",
@@ -192,9 +192,17 @@
       "theme": "A short moral story about helping others",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "\ud83c\udf1f Maya found a penny on the ground",
+      "category": "morals",
+      "theme": "A short moral story about helping others",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 21,
-  "last_upload": "2026-08-15",
+  "current_streak": 22,
+  "last_upload": "2026-08-16",
   "created": "2026-07-26T10:02:44.780533"
 }
