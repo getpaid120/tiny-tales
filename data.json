@@ -1,5 +1,5 @@
 {
-  "total_videos": 26,
+  "total_videos": 27,
   "videos": [
     {
       "date": "2026-07-26",
@@ -208,9 +208,17 @@
       "theme": "A gentle bedtime story about the moon",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-08-18",
+      "title": "\ud83c\udf1f Rex the raccoon was scared of the big slide",
+      "category": "morals",
+      "theme": "A short moral story about teamwork",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 23,
-  "last_upload": "2026-08-17",
+  "current_streak": 24,
+  "last_upload": "2026-08-18",
   "created": "2026-07-26T10:02:44.780533"
 }
