@@ -1,5 +1,5 @@
 {
-  "total_videos": 27,
+  "total_videos": 28,
   "videos": [
     {
       "date": "2026-07-26",
@@ -216,9 +216,17 @@
       "theme": "A short moral story about teamwork",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-08-19",
+      "title": "\ud83c\udf19 Leo built a pillow fort so tall it touched the ceiling",
+      "category": "bedtime",
+      "theme": "A gentle bedtime story about the moon",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 24,
-  "last_upload": "2026-08-18",
+  "current_streak": 25,
+  "last_upload": "2026-08-19",
   "created": "2026-07-26T10:02:44.780533"
 }
