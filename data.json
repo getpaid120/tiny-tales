@@ -1,5 +1,5 @@
 {
-  "total_videos": 43,
+  "total_videos": 44,
   "videos": [
     {
       "date": "2026-07-26",
@@ -344,9 +344,17 @@
       "theme": "A dreamy story about a pillow fort",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "\ud83c\udf19 The night animals woke up as the sun went down",
+      "category": "bedtime",
+      "theme": "A calming bedtime story about dreamland",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 40,
-  "last_upload": "2026-09-03",
+  "current_streak": 41,
+  "last_upload": "2026-09-04",
   "created": "2026-07-26T10:02:44.780533"
 }
