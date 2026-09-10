@@ -1,5 +1,5 @@
 {
-  "total_videos": 49,
+  "total_videos": 50,
   "videos": [
     {
       "date": "2026-07-26",
@@ -392,9 +392,17 @@
       "theme": "A short moral story about patience for kids",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "\ud83c\udf1f Peacock Pablo loved his beautiful tail",
+      "category": "morals",
+      "theme": "A short moral story about patience for kids",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 46,
-  "last_upload": "2026-09-09",
+  "current_streak": 47,
+  "last_upload": "2026-09-10",
   "created": "2026-07-26T10:02:44.780533"
 }
