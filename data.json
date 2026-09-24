@@ -1,5 +1,5 @@
 {
-  "total_videos": 63,
+  "total_videos": 64,
   "videos": [
     {
       "date": "2026-07-26",
@@ -504,9 +504,17 @@
       "theme": "A short fairy tale about a friendly dragon",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-09-24",
+      "title": "\ud83e\uddda Princess Elara never wore a crown",
+      "category": "fairy_tales",
+      "theme": "A short fairy tale about a star that fell to earth",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 60,
-  "last_upload": "2026-09-23",
+  "current_streak": 61,
+  "last_upload": "2026-09-24",
   "created": "2026-07-26T10:02:44.780533"
 }
