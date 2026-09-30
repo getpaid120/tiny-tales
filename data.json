@@ -1,5 +1,5 @@
 {
-  "total_videos": 69,
+  "total_videos": 70,
   "videos": [
     {
       "date": "2026-07-26",
@@ -552,9 +552,17 @@
       "theme": "A peaceful story about a cloud bed",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-09-30",
+      "title": "\ud83c\udf1f Sammy the squirrel loved his shiny acorn collection",
+      "category": "morals",
+      "theme": "A short moral story about gratitude",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 66,
-  "last_upload": "2026-09-29",
+  "current_streak": 67,
+  "last_upload": "2026-09-30",
   "created": "2026-07-26T10:02:44.780533"
 }
