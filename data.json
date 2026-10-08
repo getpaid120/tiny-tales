@@ -1,5 +1,5 @@
 {
-  "total_videos": 77,
+  "total_videos": 78,
   "videos": [
     {
       "date": "2026-07-26",
@@ -616,9 +616,17 @@
       "theme": "A calming bedtime story about dreamland",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-10-08",
+      "title": "\ud83c\udf19 A firefly named Glimmer visited every window in town",
+      "category": "bedtime",
+      "theme": "A sleepy story about counting stars",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 74,
-  "last_upload": "2026-10-07",
+  "current_streak": 75,
+  "last_upload": "2026-10-08",
   "created": "2026-07-26T10:02:44.780533"
 }
