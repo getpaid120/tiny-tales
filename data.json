@@ -1,5 +1,5 @@
 {
-  "total_videos": 80,
+  "total_videos": 81,
   "videos": [
     {
       "date": "2026-07-26",
@@ -640,9 +640,17 @@
       "theme": "A gentle story about saying goodnight",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-10-11",
+      "title": "\ud83e\uddda Zara found a dusty lamp",
+      "category": "fairy_tales",
+      "theme": "A short fairy tale about a star that fell to earth",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 77,
-  "last_upload": "2026-10-10",
+  "current_streak": 78,
+  "last_upload": "2026-10-11",
   "created": "2026-07-26T10:02:44.780533"
 }
