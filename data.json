@@ -1,5 +1,5 @@
 {
-  "total_videos": 87,
+  "total_videos": 88,
   "videos": [
     {
       "date": "2026-07-26",
@@ -696,9 +696,17 @@
       "theme": "A short moral story about forgiveness",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-10-18",
+      "title": "\ud83e\uddda Behind the old oak tree was a garden no one had seen",
+      "category": "fairy_tales",
+      "theme": "A short fairy tale about a kind princess",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 84,
-  "last_upload": "2026-10-17",
+  "current_streak": 85,
+  "last_upload": "2026-10-18",
   "created": "2026-07-26T10:02:44.780533"
 }
