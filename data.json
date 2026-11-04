@@ -1,5 +1,5 @@
 {
-  "total_videos": 104,
+  "total_videos": 105,
   "videos": [
     {
       "date": "2026-07-26",
@@ -832,9 +832,17 @@
       "theme": "A short fairy tale about talking animals",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-11-04",
+      "title": "\ud83e\uddda Far above the clouds lay the Rainbow Kingdom",
+      "category": "fairy_tales",
+      "theme": "A short fairy tale about a rainbow kingdom",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 101,
-  "last_upload": "2026-11-03",
+  "current_streak": 102,
+  "last_upload": "2026-11-04",
   "created": "2026-07-26T10:02:44.780533"
 }
