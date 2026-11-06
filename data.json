@@ -1,5 +1,5 @@
 {
-  "total_videos": 106,
+  "total_videos": 107,
   "videos": [
     {
       "date": "2026-07-26",
@@ -848,9 +848,17 @@
       "theme": "A short fairy tale about a wishing well",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-11-06",
+      "title": "\ud83e\uddda Behind the old oak tree was a garden no one had seen",
+      "category": "fairy_tales",
+      "theme": "A short fairy tale about a brave knight",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 103,
-  "last_upload": "2026-11-05",
+  "current_streak": 104,
+  "last_upload": "2026-11-06",
   "created": "2026-07-26T10:02:44.780533"
 }
