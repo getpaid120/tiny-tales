@@ -1,5 +1,5 @@
 {
-  "total_videos": 122,
+  "total_videos": 123,
   "videos": [
     {
       "date": "2026-07-26",
@@ -976,9 +976,17 @@
       "theme": "A peaceful story about a cloud bed",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-11-23",
+      "title": "\ud83c\udf19 Teddy hadn't moved from his spot all day",
+      "category": "bedtime",
+      "theme": "A calming bedtime story about dreamland",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 11,
-  "last_upload": "2026-11-22",
+  "current_streak": 12,
+  "last_upload": "2026-11-23",
   "created": "2026-07-26T10:02:44.780533"
 }
