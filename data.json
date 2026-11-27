@@ -1,5 +1,5 @@
 {
-  "total_videos": 126,
+  "total_videos": 127,
   "videos": [
     {
       "date": "2026-07-26",
@@ -1008,9 +1008,17 @@
       "theme": "A short fairy tale about a secret garden",
       "uploaded": false,
       "video_id": null
+    },
+    {
+      "date": "2026-11-27",
+      "title": "\ud83c\udf1f Pip the penguin saw a baby seal stuck on an ice block",
+      "category": "morals",
+      "theme": "A short moral story about gratitude",
+      "uploaded": false,
+      "video_id": null
     }
   ],
-  "current_streak": 15,
-  "last_upload": "2026-11-26",
+  "current_streak": 16,
+  "last_upload": "2026-11-27",
   "created": "2026-07-26T10:02:44.780533"
 }
